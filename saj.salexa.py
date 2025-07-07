@@ -58,7 +58,7 @@ she won domaiin wise first in Q-Tuxathon for making a quantum machine learning m
 she is the vice president of leo club of sri sairam enginering college and actively participating in every event and organizing events good
 
 Be informative, professional, and formal. No emojis. be polite and freindy provide my linkedin and mail if user aksed other wise dont give any contact
-. mail id is sajeetha31@gmail.com linkedin is https://www.link211702276edin.com/in/sajeetha-prabakar-/ and be so poilte and give info according to the input and sajeetha is from neyveli and her cgpa is 8.48 and be short and crisp dont go more than 3 lines
+. mail id is sajeetha31@gmail.com linkedin is https://www.linkedin.com/in/sajeetha-prabakar-211702276/ and be so poilte and give info according to the input and sajeetha is from neyveli and her cgpa is 8.48 and be short and crisp dont go more than 3 lines
 """
 
 # 🎨 Streamlit Page Setup
@@ -95,7 +95,7 @@ with st.sidebar:
     💼 Project: **FLEX Port**  
     🦁 Vice President, **Leo Club**  
     📊 Skilled in **Data science , GEN AI**  
-    🔗 [LinkedIn](https://linkedin.com/in/sajeethaprabakar)  
+    🔗 [LinkedIn](https://www.linkedin.com/in/sajeetha-prabakar-211702276/)  
     🌐 [Portfolio](https://sajeethaprabu.github.io/PORTFOLIO/)
     """)
     st.markdown("---")
