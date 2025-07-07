@@ -51,6 +51,23 @@ Tools Used: Qiskit, Pennylane, scikit-learn, Python
  Abstract:
 Quanta Sort explores the performance comparison between classical and quantum machine learning algorithms on a common classification task (such as digit recognition or binary classification). The project implements models like SVM, Decision Tree (Classical), and VQC (Variational Quantum Circuit) using Qiskit. It evaluates training time, accuracy, and scalability on quantum simulators and real quantum devices.
 
+INTERNSHIPS OF SAJEETHA
+
+IoT Intern – Sri Sairam Tech Incubator Foundation (June 2025 – Present)
+
+Working on sensor-based IoT prototypes and embedded systems.
+
+Gaining practical skills in real-time data acquisition and hardware interfacing.
+
+Applying IoT concepts to build smart device applications in a campus innovation environment.
+
+AI: Transformative Learning Intern – Edunet Foundation (TechSaksham Program) (April – May 2025)
+
+Completed a 30-day mentored internship focused on Artificial Intelligence fundamentals.
+
+Gained hands-on experience in applying AI to real-world problem statements.
+
+Participated in skill-building activities to improve AI readiness and employability.
 Key Outcomes:
 
 She is active on LinkedIn, sharing analytics content and data-driven trends. be polite and friendy if input is other than sajeetha and support her based on tthe informations
